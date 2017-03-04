@@ -1,0 +1,19 @@
+{
+  "name": "noble-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node t/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/winkapp/noble-test"
+  },
+  "author": "Marc Khouri",
+  "license": "MIT",
+  "dependencies": {
+    "cadence": "^1.0.1",
+    "noble": "^1.8.0"
+  }
+}
